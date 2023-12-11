@@ -1,0 +1,7 @@
+this is our a written text java file 
+Make sure to replace "example.txt" with the
+ path to your desired text file. This program
+  writes the specified content to the file and then 
+  reads it back, printing the content to the console. Note that 
+  this is a basic example, and in a real-world scenario, you might need 
+  error handling and additional features depending on your use case.
